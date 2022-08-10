@@ -1,0 +1,7 @@
+nav .nav-link, .navbar-brand {
+    color: white;
+}
+
+nav .nav-item i{
+    margin-right: 15px;
+}

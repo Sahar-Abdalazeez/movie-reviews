@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+
+:root{
+ --bgColor: #131722;
+}
+
+body{
+background-color: var(--bgColor);
+color: white;
+font-family: "Montserrat Alternates";
+}
